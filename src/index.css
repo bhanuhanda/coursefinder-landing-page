@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.react-multi-carousel-dot-list {
+  margin: -45px !important;
+}
+
+.middle-item {
+  margin-top: 2rem;
+  transition: 500ms;
+}
+
+.react-multiple-carousel__arrow--left {
+  left: 0px !important;
+}
+
+.react-multiple-carousel__arrow--right {
+  right: 0 !important;
+}
+
+.Mui-focused {
+  outline:none !important;
+  border-color: #fff;
+}
+
+.MuiInput-input {
+  outline:none !important;
+  border-color: #fff;
+}
